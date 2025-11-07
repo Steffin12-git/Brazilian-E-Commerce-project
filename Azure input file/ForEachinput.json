@@ -1,30 +1,30 @@
 [
 	{
-		"csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_customers_dataset.csv",
-		"file_name": "olist_customers_dataset.csv"
+		"new_csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_customers_dataset.csv",
+		"newfile_name": "olist_customers_dataset.csv"
 	},
 	{
-		"csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_geolocation_dataset.csv",
-		"file_name": "olist_geolocation_dataset.csv"
+		"new_csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_geolocation_dataset.csv",
+		"newfile_name": "olist_geolocation_dataset.csv"
 	},
 	{
-		"csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_order_items_dataset.csv",
-		"file_name": "olist_order_items_dataset.csv"
+		"new_csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_order_items_dataset.csv",
+		"newfile_name": "olist_order_items_dataset.csv"
 	},
 	{
-		"csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_order_reviews_dataset.csv",
-		"file_name": "olist_order_reviews_dataset.csv"
+		"new_csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_order_reviews_dataset.csv",
+		"newfile_name": "olist_order_reviews_dataset.csv"
 	},
 	{
-		"csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_orders_dataset.csv",
-		"file_name": "olist_orders_dataset.csv"
+		"new_csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_orders_dataset.csv",
+		"newfile_name": "olist_orders_dataset.csv"
 	},
 	{
-		"csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_products_dataset.csv",
-		"file_name": "olist_products_dataset.csv"
+		"new_csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_products_dataset.csv",
+		"newfile_name": "olist_products_dataset.csv"
 	},
 	{
-		"csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_sellers_dataset.csv",
-		"file_name": "olist_sellers_dataset.csv"
+		"new_csv_related_url": "Brazilian-E-Commerce-project/refs/heads/main/Raw%20dataset/olist_sellers_dataset.csv",
+		"newfile_name": "olist_sellers_dataset.csv"
 	}
 ]
