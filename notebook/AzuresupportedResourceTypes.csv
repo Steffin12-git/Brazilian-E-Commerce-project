@@ -1,0 +1,6 @@
+﻿NAME,TYPE,RESOURCE GROUP,LOCATION,SUBSCRIPTION
+"dbstoragethzxpaakvioxw","Storage account","ecomm-databricks-resource-group","Central India","Azure subscription 1"
+"olisdataaccountname","Storage account","ecomm-live","Central India","Azure subscription 1"
+"olist-data-factory-prjct","Data factory (V2)","ecomm-live","Central India","Azure subscription 1"
+"olistdata-syanpses-workspace","Synapse workspace","ecomm-live","Central India","Azure subscription 1"
+"olistdatastorageprjct","Storage account","ecomm-live","Central India","Azure subscription 1"
