@@ -1,6 +1,6 @@
 # 🛒 Brazilian E-Commerce Project (Olist)
 
-### 🚀 *End-to-End Azure Data Engineering Pipeline Using ADF | ADLS Gen2 | Databricks | Synapse | Power BI*
+### 🚀 *End-to-End Azure Data Engineering Pipeline Using ADF | ADLS Gen2 | Databricks | Synapse | Power BI*.
 
 ---
 
